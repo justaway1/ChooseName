@@ -87,6 +87,7 @@ let namesD = [
     'Diana', 'Daniela',
     'Dakota', 'Delaney',
     'Destiny', 'Daleyza']
+let namesE = ['Eleonora'];
 // let alphabets = ['A', 'B', 'C', 'D', 'E', 'F'];
 const button = document.getElementById('search-name');
 const mainText = document.getElementById('show-names');
@@ -141,6 +142,10 @@ function generateNames() {
     if (inputNames.value === 'D' || inputNames.value === 'd') {
         mainText.setAttribute('id', 'showNames');
         mainText.innerHTML = namesD[Math.floor(Math.random() * namesD.length)];
+    }
+    if (inputNames.value === 'E' || inputNames.value === 'e') {
+        mainText.setAttribute('id', 'showNames');
+        mainText.innerHTML = namesE[Math.floor(Math.random() * namesE.length)];
     }
     checkCondition();
 }
