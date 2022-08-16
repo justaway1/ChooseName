@@ -10,3 +10,6 @@
 Live Preview [here](https://justaway1.github.io/ChooseName/)
 
 -------------------
+
+![Wonder](https://user-images.githubusercontent.com/44018646/184938496-21cc2115-2564-40fd-bacd-22fffbd44f69.jpg)
+
