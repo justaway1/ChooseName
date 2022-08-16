@@ -7,3 +7,6 @@
  - CSS3
  - JS
 
+Live Preview [here](https://justaway1.github.io/ChooseName/)
+
+-------------------
