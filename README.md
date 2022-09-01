@@ -31,4 +31,4 @@ Just type any favourite first letter, and the **search engine** will find a suit
 
 Nowadays naming your child has never been easier!
 
-/Happy Coding/
+/Happy Coding/.
